@@ -3,6 +3,7 @@ public class EatCake {
 	
 	public EatCake() {
 		
+		//Default constructor
 	}
 	
 	public static void eatCake(Cake cake) {
